@@ -1,0 +1,5 @@
+# Nginx needs a logs/ directory to start
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
